@@ -6,10 +6,10 @@
 ## 系統 Demo
 
 ### Demo 示範影片
-<video src="PHP & MySQL - Shopping.mp4" width="100%" controls></video>
+<video src="pic/demo_video.mp4" width="100%" controls></video>
 
 ### 前台使用者商品與購物車畫面
-![商品首頁](demo_home.png)
+![商品首頁](pic/demo_home.png)
 
 ### 後端管理系統
-![後端畫面](demo_admin.png)
+![後端畫面](pic/demo_admin.png)
