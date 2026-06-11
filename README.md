@@ -12,4 +12,4 @@
 ![後端畫面](demo_admin.png)
 
 ### Demo 示範影片
-<video src="demo_video.mp4" width="100%" controls></video>
+<video src="PHP & MySQL - Shopping.mp4" width="100%" controls></video>
