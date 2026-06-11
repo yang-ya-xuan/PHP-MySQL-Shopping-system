@@ -6,9 +6,7 @@
 ## 系統 Demo
 
 ### Demo 完整示範影片
-[![點擊前往 YouTube 觀看展示影片](https://www.youtube.com/watch?v=wfp6QbuV_JA)
-
-
+⭐️ [**點我前往 YouTube 觀看完整購物車功能操作影片**](https://www.youtube.com/watch?v=wfp6QbuV_JA)
 
 ### 前台使用者商品與購物車畫面
 ![商品首頁](pic/demo_home.png)
