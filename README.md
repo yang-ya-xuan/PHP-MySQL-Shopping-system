@@ -6,7 +6,7 @@
 ## 系統 Demo
 
 ### Demo 示範影片
-<video src="pic/demo_video.mp4" width="100%" controls></video>
+![示範影片](pic/demo_video.gif)
 
 ### 前台使用者商品與購物車畫面
 ![商品首頁](pic/demo_home.png)
