@@ -5,8 +5,8 @@
 
 ## 系統 Demo
 
-### Demo 示範影片
-<video src="https://github.com/yang-ya-xuan/PHP-MySQL-Shopping-system/blob/main/pic/demo_video.mp4?raw=true" width="100%" controls></video>
+### Demo 完整示範影片
+[![點擊前往 YouTube 觀看展示影片](https://www.youtube.com/watch?v=wfp6QbuV_JA)
 
 
 
